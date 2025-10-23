@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Mitchell",
+    "specialty": "Veterinary Dermatologist",
+    "image": "https://i.postimg.cc/C1Zr4M1R/Screenshot-2025-10-24-015156.png"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Kevin Parker",
+    "specialty": "Animal Nutrition Expert",
+    "image": "https://i.postimg.cc/cHKkc1HC/Screenshot-2025-10-24-015217.png"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Roberts",
+    "specialty": "Pet Behavior Specialist",
+    "image": "https://i.postimg.cc/N0CPT2gm/Screenshot-2025-10-24-015312.png"
+  }
+]

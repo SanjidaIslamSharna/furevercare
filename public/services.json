@@ -1,0 +1,98 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.postimg.cc/XvpTrMGS/Generated-Image-October-23-2025-9-02PM.png",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.postimg.cc/nLC6X8sw/Generated-Image-October-23-2025-9-03PM.png",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Installation",
+    "providerName": "WarmNest Services",
+    "providerEmail": "contact@warmnest.com",
+    "price": 45,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Setup and safety check of heated beds for small and medium pets.",
+    "image": "https://i.postimg.cc/L6Vd73Kc/Generated-Image-October-23-2025-9-04PM.png",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Nutrition Consultation",
+    "providerName": "VetWise Clinic",
+    "providerEmail": "support@vetwise.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 6,
+    "description": "Diet adjustments and supplements recommendation for cold months.",
+    "image": "https://i.postimg.cc/Ghj0Nxnw/Generated-Image-October-23-2025-9-05PM.png",
+    "category": "Health"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Paw Wax & Protection",
+    "providerName": "PawShield",
+    "providerEmail": "info@pawshield.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 8,
+    "description": "Protective wax application to prevent cracking from ice and salt.",
+    "image": "https://i.postimg.cc/nc185Gbk/Generated-Image-October-23-2025-9-13PM.png",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Outdoor Safety Training",
+    "providerName": "SafeWalks",
+    "providerEmail": "hello@safewalks.com",
+    "price": 40,
+    "rating": 4.5,
+    "slotsAvailable": 2,
+    "description": "Training for safe outdoor walks in icy conditions.",
+    "image": "https://i.postimg.cc/CL4ytspV/Generated-Image-October-23-2025-9-14PM.png",
+    "category": "Training"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Winter Pet Bathing",
+    "providerName": "CleanPaws Bathing",
+    "providerEmail": "contact@cleanpaws.com",
+    "price": 25,
+    "rating": 4.7,
+    "slotsAvailable": 3,
+    "description": "Hygienic bathing for pets in icy conditions.",
+    "image": "https://i.postimg.cc/rFGcTLWR/mobile3.png",
+    "category": "Health"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Winter Pet Training",
+    "providerName": "PetTrainer",
+    "providerEmail": "support@pettrainer.com",
+    "price": 35,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Training sessions for dogs in icy conditions.",
+    "image": "https://i.postimg.cc/BQfsRv8H/mobile2.png",
+    "category": "Training"
+  }
+]

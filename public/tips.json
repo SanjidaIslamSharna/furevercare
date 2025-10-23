@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Keep Your Pets Warm",
+    "desc": "Use sweaters or blankets to keep your pets cozy during cold nights.",
+    "icon": "🐶"
+  },
+  {
+    "id": 2,
+    "title": "Provide Fresh Water",
+    "desc": "Ensure their water bowl doesn’t freeze during chilly mornings.",
+    "icon": "💧"
+  },
+  {
+    "id": 3,
+    "title": "Moisturize Their Paws",
+    "desc": "Use pet-safe balm to protect their paws from dryness or cracking.",
+    "icon": "🐾"
+  },
+  {
+    "id": 4,
+    "title": "Limit Outdoor Time",
+    "desc": "Too much cold exposure can be harmful; take shorter walks.",
+    "icon": "❄️"
+  }
+]
