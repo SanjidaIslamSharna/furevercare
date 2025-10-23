@@ -7,7 +7,7 @@ const Services = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("../public/services.json")
+    fetch("/services.json")
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch services");
         return res.json();

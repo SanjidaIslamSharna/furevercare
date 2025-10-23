@@ -10,17 +10,17 @@ const Home = () => {
   const [vets, setVets] = useState([]);
 
   useEffect(() => {
-    fetch("../public/services.json")
+    fetch("/services.json")
       .then((res) => res.json())
       .then((data) => setServices(data))
       .catch((error) => console.error("Error loading services:", error));
 
-     fetch("../public/tips.json")
+     fetch("/tips.json")
       .then((res) => res.json())
       .then((data) => setTips(data))
       .catch((error) => console.error("Error loading tips:", error));
 
-    fetch("../public/vets.json")
+    fetch("/vets.json")
       .then((res) => res.json())
       .then((data) => setVets(data))
       .catch((error) => console.error("Error loading vets:", error));
