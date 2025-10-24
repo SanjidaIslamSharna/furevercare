@@ -4,7 +4,7 @@ import Home from "./pages/Home.jsx";
 import PrivateRoute from "./routes/PrivateRoute.jsx";
 import ServiceDetails from "./pages/ServiceDetails.jsx";
 import Login from "./pages/Login.jsx";
-import Signup from "./pages/signup.jsx";
+import Signup from "./pages/Signup.jsx";
 import Profile from "./pages/Profile.jsx";
 import Services from "./pages/Services.jsx";
 import ScrollToTop from "./components/ScrollToTop.jsx";
